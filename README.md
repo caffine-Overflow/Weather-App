@@ -2,7 +2,7 @@
 
 A simple and elegant weather application that allows users to check the current weather conditions by entering a city name. Utilizing the [OpenWeatherMap API](https://openweathermap.org/api), this app provides real-time weather data including temperature, humidity, wind speed, and weather conditions.
 
-
+![weather-app_pxao8b2i (1)](https://github.com/user-attachments/assets/f0aed31a-992d-4e17-915f-542564889357)
 
 ## 📦 Features
 
