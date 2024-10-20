@@ -2,7 +2,7 @@
 
 A simple and elegant weather application that allows users to check the current weather conditions by entering a city name. Utilizing the [OpenWeatherMap API](https://openweathermap.org/api), this app provides real-time weather data including temperature, humidity, wind speed, and weather conditions.
 
-![weather-app_pxao8b2i (1)](https://github.com/user-attachments/assets/f0aed31a-992d-4e17-915f-542564889357)
+
 
 ## 📦 Features
 
@@ -20,11 +20,21 @@ A simple and elegant weather application that allows users to check the current 
 
 ## 🌐 Live Demo
 
-Check out the live demo of the app: [Live Demo Link](https://your-live-demo-link.com)
+![weather-app_pxao8b2i (1)](https://github.com/user-attachments/assets/f0aed31a-992d-4e17-915f-542564889357)
 
-## 🚀 Setup Instructions
+🛠️ Usage
+Open the application in your web browser.
+Enter the name of a city in the search box.
+Click the search button to fetch the weather data.
+View the current temperature, humidity, wind speed, and weather icon.
+If an invalid city name is entered, an error message will display.
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/weather-app.git
+
+👥 Author
+Made with ❤️ Afreen
+
+📞 Contact
+For any questions or feedback, feel free to reach out at your-afreen.96.dev@gmail.com
+
+
 
